@@ -34,3 +34,9 @@ Lookups and utilities for working with MPAC data.
 - An unofficial wrapper around MPAC's API for data submissions.
 - Sadly restricted by confidential documentation.
 - _Want access?_ If you can prove you have access to MPAC's APIs, collaborator access can be granted.
+
+## Related Projects
+
+### [Civic Address Format](https://github.com/cityssm/civic-address-format)
+
+Formats a civic address from its pieces using Canada Post guidelines.
